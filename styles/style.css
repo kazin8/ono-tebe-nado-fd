@@ -73,6 +73,7 @@
 
 .aligned-text {
 	display: block;
+	margin-bottom: 20px;
 }
 
 .aligned-text_center {
@@ -133,7 +134,7 @@
 	line-height: 47px;
 	margin-left: 40px;
 	margin-bottom: 27px;
-
+	text-transform: uppercase;
 }
 
 .lots__card-list {
