@@ -10,7 +10,7 @@
 
 .header__links-list {
 	display: flex;
-	gap: 15px;
+	gap: 14px;
 	padding: 0;
 	list-style: none;
 }
@@ -25,10 +25,13 @@
 }
 
 .header__links-list-item:not(:first-child)::before {
-	content: "○";
+	content: "◦";
 	color: black;
-	font-size: 18px;
-	margin-right: 15px;
+	font-size: 11px;
+	margin-right: 14px;
+	text-align: center;
+	line-height: 1;
+	display: inline-block;
 }
 
 .header__link_active {
