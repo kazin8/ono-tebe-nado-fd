@@ -10,7 +10,7 @@
 
 .header__links-list {
 	display: flex;
-	gap: 17px;
+	gap: 19px;
 	list-style: circle;
 }
 
@@ -33,6 +33,10 @@
 	display: block;
 	width: 148px;
 	height: 105px;
+}
+
+.header__logo-image {
+	height: 100%;
 }
 
 .address {
