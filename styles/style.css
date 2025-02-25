@@ -10,7 +10,7 @@
 
 .header__links-list {
 	display: flex;
-	gap: 15px;
+	gap: 17px;
 	list-style: circle;
 }
 
@@ -29,11 +29,10 @@
 	text-decoration: none;
 }
 
-
 .header__logo-link {
 	display: block;
 	width: 148px;
-	height: 114px;
+	height: 105px;
 }
 
 .address {
